@@ -1,4 +1,4 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= PREMIUM CLEAN HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Lingaraj Patil</h1>
 
@@ -7,12 +7,12 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;NeetCode+150+DSA+Grind;Building+AI+Powered+Web+Apps;Open+Source+Beginner;Future+Top+1%25+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;NeetCode+150+DSA+Grind;Building+Scalable+Web+Apps;AI+%2B+Web+Integration;Future+Top+1%25+Engineer" />
 </p>
 
 ---
 
-<!-- ================= ANIMATED BANNER ================= -->
+<!-- ================= ANIMATED CODING BANNER ================= -->
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-3a0b3c9e-2b5f-4c1b-8e6f-6c6c6c6c6c6c.gif" width="700"/>
@@ -22,21 +22,11 @@
 
 # 💫 About Me
 
-* 🚀 Passionate Full-Stack MERN Developer
-* 🧠 Grinding DSA Daily (NeetCode 150)
-* 💻 Building Production-Ready Projects
-* 🤖 Exploring AI + Web Integration
+* 🚀 Passionate **Full-Stack MERN Developer**
+* 🧠 Practicing **DSA Daily (NeetCode 150)**
+* 💻 Building **Production-Ready Applications**
+* 🤖 Exploring **AI + Web Integration**
 
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://instagram.com/lingaraj.v.patil"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://linkedin.com/in/Lingaraj%20Patil"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://x.com/LingarajVPatil"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-</p>
 
 ---
 
@@ -61,18 +51,12 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🌐 Connect With Me
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Lingaraj-Patil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Lingaraj-Patil/Lingaraj-Patil/output/github-contribution-grid-snake.svg"/>
+<a href="https://instagram.com/lingaraj.v.patil"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://linkedin.com/in/Lingaraj%20Patil"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://x.com/LingarajVPatil"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 ---
@@ -81,8 +65,7 @@
 
 ```text
 🔨 Building Scalable MERN Apps
-📚 Daily DSA Practice
-🧩 NeetCode 150
+📚 NeetCode 150 Completion
 🤝 Hackathons 
 ```
 
