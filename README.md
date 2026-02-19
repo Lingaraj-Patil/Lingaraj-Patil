@@ -1,36 +1,100 @@
-# 💫 About Me:
-I'm Lingaraj Patil , a passionate Web Development Enthusiast🚀 <br>Currently learning and building amazing projects with Mern Stack!
 
+<h1 align="center">Hi 👋, I'm Lingaraj Patil</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lingaraj.v.patil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Lingaraj Patil) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LingarajVPatil) 
+<h3 align="center">
+🚀 Full-Stack MERN Developer | 💻 DSA Grinder 
+</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lingaraj-Patil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lingaraj-Patil&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingaraj-Patil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lingaraj-Patil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;DSA+%7C+NeetCode+150+Grind;Building+AI+Powered+Web+Apps;Open+Source+Beginner;Future+Top+1%25+Engineer" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Lingaraj-Patil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--
-**Lingaraj-Patil/Lingaraj-Patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-0bb2d5b3-6e9f-4c5b-8c9a-9c4d6ac613b2.gif" width="700">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me
+
+* 🚀 Passionate **Full-Stack MERN Developer**
+* 🧠 Grinding **DSA Daily (NeetCode 150)**
+* 💻 Building **Production-Ready Projects**
+* 🤖 Exploring **AI + Web Integration**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://instagram.com/lingaraj.v.patil"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://linkedin.com/in/Lingaraj Patil"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://x.com/LingarajVPatil"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,c,tailwind,git,github,vscode" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lingaraj-Patil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Lingaraj-Patil&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingaraj-Patil&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Lingaraj-Patil&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Lingaraj-Patil/Lingaraj-Patil/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🚀 Current Focus
+
+```text
+🔨 Building Scalable MERN Apps
+📚 Daily DSA Practice
+🧩 Solving LeetCode / NeetCode 150
+🤝 Hackathons 
+```
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=Lingaraj-Patil&icon=5&color=6" />
+</p>
+
+---
+
+<h3 align="center">
+⭐ “Consistency + Discipline = Unstoppable Growth.” ⭐
+</h3>
