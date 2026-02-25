@@ -25,7 +25,7 @@
 * 🚀 Passionate **Full-Stack MERN Developer**
 * 🧠 Practicing **DSA Daily (NeetCode 150)**
 * 💻 Building **Production-Ready Applications**
-* 🤖 Exploring **AI + Web Integration**
+* 🤖 Exploring **AI/Blockchain + Web Integration**
 
 
 ---
